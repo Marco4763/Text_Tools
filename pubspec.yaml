@@ -1,6 +1,6 @@
 name: text_tools
 description: Text tools with simple capitalization options for the first or any character in a string, lower case for the first or any character in a String, remove all specific letters or letters from a String and remove all specific numbers or numbers from a String.
-version: 0.0.1
+version: 0.0.2
 author: Marco Domingos<foxmarcio9@gmail.com>
 homepage: https://github.com/Marco4763/Text_Tools
 
